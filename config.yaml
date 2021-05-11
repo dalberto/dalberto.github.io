@@ -3,7 +3,15 @@ languageCode: en-us
 title: darlin.io
 theme: PaperMod
 enableEmoji: true
+# https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    style: monokai
 params:
+  assets:
+    disableHLJS: true
   hideSummary: true
   ShowReadingTime: true
   ShowPostNavLinks: true
