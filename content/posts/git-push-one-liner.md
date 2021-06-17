@@ -1,7 +1,7 @@
 ---
 title: "my favorite git command for pushing changes fast"
 date: 2021-06-11T07:58:23-04:00
-draft: true
+draft: false
 tags:
 - git
 ---

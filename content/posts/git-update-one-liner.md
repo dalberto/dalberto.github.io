@@ -1,7 +1,7 @@
 ---
 title: "my favorite one-liner to update a local git branch"
 date: 2021-06-17T10:54:14.974615+00:00
-draft: true
+draft: false
 tags:
 - git
 ---
